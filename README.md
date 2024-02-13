@@ -1,2 +1,2 @@
 # PID-analysis-and-vizualization
-Analysis of PID, wark with dataframes
+Analysis of PID, vizualization, work with dataframes
